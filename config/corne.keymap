@@ -47,7 +47,7 @@
                 &trans &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P &kp BSPC 
                 &kp LGUI &hml LSHIFT A &kp S &hml LALT D &hml LCTRL F &kp G &kp H &hmr RCTRL J &hmr RALT K &kp L &hmr RSHIFT SEMI &kp SQT 
                 &trans &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp DOT &kp FSLH &kp ESC 
-                &kp TAB & mo 1 &kp SPACE &kp RET & mo 2 &kp DEL>;
+                &kp TAB &mo 1 &kp SPACE &kp RET &mo 2 &kp DEL>;
         };
         lower_layer
         {
